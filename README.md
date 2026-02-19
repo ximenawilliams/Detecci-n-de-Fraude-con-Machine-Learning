@@ -7,7 +7,7 @@ Incluye **preprocesamiento**, manejo de **clases desbalanceadas**, entrenamiento
 
 ## Objetivo
 
-Construir un modelo capaz de **identificar transacciones fraudulentas** minimizando:
+modelo capaz de **identificar transacciones fraudulentas** minimizando:
 - **Falsos negativos** (fraudes no detectados) → alto impacto financiero
 - **Falsos positivos** (bloqueos innecesarios) → mala experiencia del cliente
 
